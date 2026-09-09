@@ -7,7 +7,7 @@ Snappy and configuration-free text editor/IDE for the terminal. Suitable for wri
 - **Latest release**: `v2.74.4` (2026-06-18)
 - **Last commit**: 2026-09-04
 - **License**: BSD-3-Clause
-- **Stars**: 699 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 700 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 5
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/orbiton> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:52:15Z._
+_Last regenerated: 2026-09-09T20:21:30Z._
