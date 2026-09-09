@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4842816,
       "digest": "sha256:bf80cd960367e5c33698db2aa4c62ed9caf7ca15cce3b0c8fabacb71471c17c0",
-      "download_count": 158,
+      "download_count": 160,
       "created_at": "2026-06-18T13:19:04Z",
       "updated_at": "2026-06-18T13:19:06Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_x86_64_static.tar.xz"
