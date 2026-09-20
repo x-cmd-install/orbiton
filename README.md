@@ -4,7 +4,7 @@
 
 Snappy and configuration-free text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, cut/paste portals, LSP support and a simple gdb+dlv frontend.
 
-![orbiton](https://repo.x-cmd.io/orbiton.svg)
+[![x-cmd/install — orbiton Code Quality Monitoring Repo Card](https://repo.x-cmd.io/orbiton.svg)](https://x-cmd.com/install/orbiton)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install orbiton
 
 ## Code insight
 
-Total: **45,026** lines of code across **190** files in the top 5 languages.
+Total: **45,030** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 43,367 | 5,908 | 4,808 | 176 |
+| Go | 43,371 | 5,908 | 4,808 | 176 |
 | Cpp | 606 | 133 | 81 | 2 |
 | Python | 322 | 36 | 81 | 1 |
 | Sh | 205 | 40 | 40 | 10 |
@@ -33,7 +33,7 @@ Total: **45,026** lines of code across **190** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.4` (2026-06-18)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-18
 - **Assets in release**: 26
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **45,026** lines of code across **190** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6423
+- **Releases**: 140 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 0 | 0 | 24 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 0 | 0 | 95 |
-| 90d | 2026-06-20 | 0 | 1 | 0 | 1 | 0 | 118 |
-| last180d | 2026-03-22 | 6 | 1 | 0 | 2 | 0 | 594 |
-| 360d | 2025-09-23 | 12 | 1 | 0 | 3 | 0 | 1121 |
-| last720d | 2024-09-28 | 24 | 2 | 0 | 4 | 0 | 1831 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 0 | 23 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 0 | 0 | 78 |
+| 90d | 2026-06-22 | 0 | 1 | 0 | 1 | 0 | 114 |
+| last180d | 2026-03-24 | 6 | 1 | 0 | 2 | 0 | 563 |
+| 360d | 2025-09-25 | 12 | 1 | 0 | 3 | 0 | 1118 |
+| last720d | 2024-09-30 | 24 | 2 | 0 | 4 | 0 | 1834 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:10:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:11:06Z._
