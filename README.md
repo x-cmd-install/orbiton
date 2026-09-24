@@ -14,7 +14,7 @@ x install orbiton
 
 ## Code insight
 
-Total: **45,606** lines of code across **196** files in the top 5 languages.
+Total: **45,607** lines of code across **196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **45,606** lines of code across **196** files in the top 5 languages.
 | Cpp | 606 | 133 | 81 | 2 |
 | Python | 322 | 36 | 81 | 1 |
 | Sh | 205 | 40 | 40 | 10 |
-| Makefile | 116 | 6 | 28 | 1 |
+| Makefile | 117 | 6 | 28 | 1 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **45,606** lines of code across **196** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.4` (2026-06-18)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 26
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **45,606** lines of code across **196** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6450
+- **Releases**: 140 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 1 | 0 | 0 | 0 | 47 |
-| last60d | 2026-07-25 | 0 | 1 | 0 | 0 | 0 | 102 |
-| 90d | 2026-06-25 | 0 | 1 | 0 | 1 | 0 | 138 |
-| last180d | 2026-03-27 | 5 | 1 | 0 | 2 | 0 | 587 |
-| 360d | 2025-09-28 | 12 | 1 | 0 | 3 | 0 | 1142 |
-| last720d | 2024-10-03 | 24 | 2 | 0 | 4 | 0 | 1858 |
+| 30d | 2026-08-25 | 0 | 1 | 0 | 0 | 0 | 50 |
+| last60d | 2026-07-26 | 0 | 1 | 0 | 0 | 0 | 105 |
+| 90d | 2026-06-26 | 0 | 1 | 0 | 1 | 0 | 141 |
+| last180d | 2026-03-28 | 5 | 1 | 0 | 2 | 0 | 590 |
+| 360d | 2025-09-29 | 12 | 1 | 0 | 3 | 0 | 1145 |
+| last720d | 2024-10-04 | 24 | 2 | 0 | 4 | 0 | 1861 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:15:55Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:42:02Z._
