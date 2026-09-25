@@ -14,11 +14,11 @@ x install orbiton
 
 ## Code insight
 
-Total: **45,607** lines of code across **196** files in the top 5 languages.
+Total: **45,750** lines of code across **197** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 43,947 | 5,948 | 4,858 | 182 |
+| Go | 44,090 | 5,966 | 4,873 | 183 |
 | Cpp | 606 | 133 | 81 | 2 |
 | Python | 322 | 36 | 81 | 1 |
 | Sh | 205 | 40 | 40 | 10 |
@@ -32,59 +32,59 @@ Total: **45,607** lines of code across **196** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.74.4` (2026-06-18)
-- **Last commit**: 2026-09-23
+- **Latest**: `v2.74.5` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 703 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 705 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6453
+- **Releases**: 141 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6458
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 1 | 0 | 0 | 0 | 50 |
-| last60d | 2026-07-26 | 0 | 1 | 0 | 0 | 0 | 105 |
-| 90d | 2026-06-26 | 0 | 1 | 0 | 1 | 0 | 141 |
-| last180d | 2026-03-28 | 5 | 1 | 0 | 2 | 0 | 590 |
-| 360d | 2025-09-29 | 12 | 1 | 0 | 3 | 0 | 1145 |
-| last720d | 2024-10-04 | 24 | 2 | 0 | 4 | 0 | 1861 |
+| 30d | 2026-08-26 | 1 | 1 | 0 | 0 | 0 | 55 |
+| last60d | 2026-07-27 | 1 | 1 | 0 | 0 | 0 | 110 |
+| 90d | 2026-06-27 | 1 | 1 | 0 | 1 | 0 | 146 |
+| last180d | 2026-03-29 | 6 | 1 | 0 | 2 | 0 | 595 |
+| 360d | 2025-09-30 | 13 | 1 | 0 | 3 | 0 | 1150 |
+| last720d | 2024-10-05 | 25 | 2 | 0 | 4 | 0 | 1866 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [orbiton-2.74.4-freebsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_aarch64_static.tar.gz) | 5.2 MiB | `native/linux/arm64` |
-| [orbiton-2.74.4-freebsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_armv6_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-freebsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_armv7_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-freebsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_i386_static.tar.gz) | 5.4 MiB | `native/linux/x86` |
-| [orbiton-2.74.4-freebsd_riscv64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_riscv64_static.tar.gz) | 5.4 MiB | `native/linux/riscv64` |
-| [orbiton-2.74.4-freebsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-freebsd_x86_64_static.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [orbiton-2.74.4-linux_aarch64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_aarch64_static.tar.xz) | 4.0 MiB | `native/linux/arm64` |
-| [orbiton-2.74.4-linux_armv6_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_armv6_static.tar.xz) | 4.0 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-linux_armv7_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_armv7_static.tar.xz) | 4.0 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-linux_riscv64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_riscv64_static.tar.xz) | 4.3 MiB | `native/linux/riscv64` |
-| [orbiton-2.74.4-linux_x86_64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-linux_x86_64_static.tar.xz) | 4.6 MiB | `native/linux/x64` |
-| [orbiton-2.74.4-macos_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-macos_aarch64_static.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
-| [orbiton-2.74.4-macos_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-macos_x86_64_static.tar.gz) | 6.2 MiB | `native/darwin/x64` |
-| [orbiton-2.74.4-netbsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-netbsd_aarch64_static.tar.gz) | 5.2 MiB | `native/linux/arm64` |
-| [orbiton-2.74.4-netbsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-netbsd_armv6_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-netbsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-netbsd_armv7_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-netbsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-netbsd_i386_static.tar.gz) | 5.4 MiB | `native/linux/x86` |
-| [orbiton-2.74.4-netbsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-netbsd_x86_64_static.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [orbiton-2.74.4-openbsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_aarch64_static.tar.gz) | 5.2 MiB | `native/linux/arm64` |
-| [orbiton-2.74.4-openbsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_armv6_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-openbsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_armv7_static.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [orbiton-2.74.4-openbsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_i386_static.tar.gz) | 5.4 MiB | `native/linux/x86` |
-| [orbiton-2.74.4-openbsd_riscv64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_riscv64_static.tar.gz) | 5.4 MiB | `native/linux/riscv64` |
-| [orbiton-2.74.4-openbsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-openbsd_x86_64_static.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [orbiton-2.74.4-windows_aarch64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-windows_aarch64_static.zip) | 5.3 MiB | `native/win/arm64` |
-| [orbiton-2.74.4-windows_x86_64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.4/orbiton-2.74.4-windows_x86_64_static.zip) | 5.9 MiB | `native/win/x64` |
+| [orbiton-2.74.5-freebsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_aarch64_static.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [orbiton-2.74.5-freebsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_armv6_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-freebsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_armv7_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-freebsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_i386_static.tar.gz) | 5.7 MiB | `native/linux/x86` |
+| [orbiton-2.74.5-freebsd_riscv64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_riscv64_static.tar.gz) | 5.7 MiB | `native/linux/riscv64` |
+| [orbiton-2.74.5-freebsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-freebsd_x86_64_static.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [orbiton-2.74.5-linux_aarch64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-linux_aarch64_static.tar.xz) | 4.2 MiB | `native/linux/arm64` |
+| [orbiton-2.74.5-linux_armv6_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-linux_armv6_static.tar.xz) | 4.2 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-linux_armv7_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-linux_armv7_static.tar.xz) | 4.2 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-linux_riscv64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-linux_riscv64_static.tar.xz) | 4.6 MiB | `native/linux/riscv64` |
+| [orbiton-2.74.5-linux_x86_64_static.tar.xz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-linux_x86_64_static.tar.xz) | 4.8 MiB | `native/linux/x64` |
+| [orbiton-2.74.5-macos_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-macos_aarch64_static.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [orbiton-2.74.5-macos_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-macos_x86_64_static.tar.gz) | 6.6 MiB | `native/darwin/x64` |
+| [orbiton-2.74.5-netbsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-netbsd_aarch64_static.tar.gz) | 5.4 MiB | `native/linux/arm64` |
+| [orbiton-2.74.5-netbsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-netbsd_armv6_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-netbsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-netbsd_armv7_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-netbsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-netbsd_i386_static.tar.gz) | 5.7 MiB | `native/linux/x86` |
+| [orbiton-2.74.5-netbsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-netbsd_x86_64_static.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [orbiton-2.74.5-openbsd_aarch64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_aarch64_static.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [orbiton-2.74.5-openbsd_armv6_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_armv6_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-openbsd_armv7_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_armv7_static.tar.gz) | 5.7 MiB | `native/linux/arm` |
+| [orbiton-2.74.5-openbsd_i386_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_i386_static.tar.gz) | 5.7 MiB | `native/linux/x86` |
+| [orbiton-2.74.5-openbsd_riscv64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_riscv64_static.tar.gz) | 5.7 MiB | `native/linux/riscv64` |
+| [orbiton-2.74.5-openbsd_x86_64_static.tar.gz](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-openbsd_x86_64_static.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [orbiton-2.74.5-windows_aarch64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-windows_aarch64_static.zip) | 5.5 MiB | `native/win/arm64` |
+| [orbiton-2.74.5-windows_x86_64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.5/orbiton-2.74.5-windows_x86_64_static.zip) | 6.2 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:42:02Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:03:49Z._
