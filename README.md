@@ -48,12 +48,12 @@ Total: **45,769** lines of code across **197** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 1 | 0 | 0 | 0 | 57 |
-| last60d | 2026-07-28 | 1 | 1 | 0 | 0 | 0 | 112 |
-| 90d | 2026-06-28 | 1 | 1 | 0 | 1 | 0 | 148 |
-| last180d | 2026-03-30 | 6 | 1 | 0 | 2 | 0 | 597 |
-| 360d | 2025-10-01 | 13 | 1 | 0 | 3 | 0 | 1152 |
-| last720d | 2024-10-06 | 25 | 2 | 0 | 4 | 0 | 1868 |
+| 30d | 2026-08-28 | 1 | 1 | 0 | 0 | 0 | 48 |
+| last60d | 2026-07-29 | 1 | 1 | 0 | 0 | 0 | 105 |
+| 90d | 2026-06-29 | 1 | 1 | 0 | 1 | 0 | 143 |
+| last180d | 2026-03-31 | 6 | 1 | 0 | 2 | 0 | 564 |
+| 360d | 2025-10-02 | 13 | 1 | 0 | 3 | 0 | 1143 |
+| last720d | 2024-10-07 | 25 | 2 | 0 | 4 | 0 | 1868 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:50:17Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:49Z._
