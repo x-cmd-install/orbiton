@@ -33,7 +33,7 @@ Total: **45,769** lines of code across **197** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.5` (2026-09-24)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-27
 - **Assets in release**: 26
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **45,769** lines of code across **197** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6460
+- **Releases**: 141 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6461
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 1 | 0 | 0 | 0 | 48 |
-| last60d | 2026-07-29 | 1 | 1 | 0 | 0 | 0 | 105 |
-| 90d | 2026-06-29 | 1 | 1 | 0 | 1 | 0 | 143 |
-| last180d | 2026-03-31 | 6 | 1 | 0 | 2 | 0 | 564 |
-| 360d | 2025-10-02 | 13 | 1 | 0 | 3 | 0 | 1143 |
-| last720d | 2024-10-07 | 25 | 2 | 0 | 4 | 0 | 1868 |
+| 30d | 2026-08-29 | 1 | 1 | 0 | 0 | 0 | 49 |
+| last60d | 2026-07-30 | 1 | 1 | 0 | 0 | 0 | 106 |
+| 90d | 2026-06-30 | 1 | 1 | 0 | 1 | 0 | 144 |
+| last180d | 2026-04-01 | 6 | 1 | 0 | 2 | 0 | 565 |
+| 360d | 2025-10-03 | 13 | 1 | 0 | 3 | 0 | 1144 |
+| last720d | 2024-10-08 | 25 | 2 | 0 | 4 | 0 | 1864 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:49Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:23:03Z._
