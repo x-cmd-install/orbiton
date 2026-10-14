@@ -38,7 +38,7 @@ Total: **46,208** lines of code across **198** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 711 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 712 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **46,208** lines of code across **198** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 0 | 0 | 0 | 0 | 84 |
-| last60d | 2026-08-14 | 2 | 1 | 0 | 0 | 0 | 110 |
-| 90d | 2026-07-15 | 2 | 1 | 0 | 0 | 0 | 182 |
-| last180d | 2026-04-16 | 7 | 1 | 0 | 2 | 0 | 537 |
-| 360d | 2025-10-18 | 14 | 1 | 0 | 2 | 0 | 1172 |
-| last720d | 2024-10-23 | 26 | 2 | 0 | 4 | 0 | 1800 |
+| 30d | 2026-09-14 | 2 | 0 | 0 | 0 | 0 | 84 |
+| last60d | 2026-08-15 | 2 | 1 | 0 | 0 | 0 | 110 |
+| 90d | 2026-07-16 | 2 | 1 | 0 | 0 | 0 | 182 |
+| last180d | 2026-04-17 | 7 | 1 | 0 | 2 | 0 | 537 |
+| 360d | 2025-10-19 | 14 | 1 | 0 | 2 | 0 | 1172 |
+| last720d | 2024-10-24 | 26 | 2 | 0 | 4 | 0 | 1791 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:55:22Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:59:04Z._
