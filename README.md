@@ -14,11 +14,11 @@ x install orbiton
 
 ## Code insight
 
-Total: **46,208** lines of code across **198** files in the top 5 languages.
+Total: **46,299** lines of code across **199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 44,535 | 5,976 | 4,904 | 184 |
+| Go | 44,626 | 5,988 | 4,913 | 185 |
 | Cpp | 606 | 133 | 81 | 2 |
 | Python | 322 | 36 | 81 | 1 |
 | Sh | 214 | 40 | 41 | 10 |
@@ -33,7 +33,7 @@ Total: **46,208** lines of code across **198** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.6` (2026-10-09)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 26
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **46,208** lines of code across **198** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6508
+- **Releases**: 142 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 0 | 0 | 0 | 0 | 85 |
-| last60d | 2026-08-16 | 2 | 1 | 0 | 0 | 0 | 111 |
-| 90d | 2026-07-17 | 2 | 1 | 0 | 0 | 0 | 183 |
-| last180d | 2026-04-18 | 7 | 1 | 0 | 2 | 0 | 538 |
-| 360d | 2025-10-20 | 14 | 1 | 0 | 2 | 0 | 1173 |
-| last720d | 2024-10-25 | 26 | 2 | 0 | 4 | 0 | 1786 |
+| 30d | 2026-09-16 | 2 | 0 | 0 | 0 | 0 | 86 |
+| last60d | 2026-08-17 | 2 | 1 | 0 | 0 | 0 | 112 |
+| 90d | 2026-07-18 | 2 | 1 | 0 | 0 | 0 | 184 |
+| last180d | 2026-04-19 | 7 | 1 | 0 | 2 | 0 | 539 |
+| 360d | 2025-10-21 | 14 | 1 | 0 | 2 | 0 | 1174 |
+| last720d | 2024-10-26 | 25 | 2 | 0 | 4 | 0 | 1783 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:38:42Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:29:22Z._
