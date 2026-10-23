@@ -38,7 +38,7 @@ Total: **46,324** lines of code across **199** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 713 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 714 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **46,324** lines of code across **199** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 60 |
-| last60d | 2026-08-23 | 2 | 1 | 0 | 0 | 0 | 115 |
-| 90d | 2026-07-24 | 2 | 1 | 0 | 0 | 0 | 171 |
-| last180d | 2026-04-25 | 7 | 1 | 0 | 2 | 0 | 472 |
-| 360d | 2025-10-27 | 14 | 1 | 0 | 2 | 0 | 1180 |
-| last720d | 2024-11-01 | 24 | 2 | 0 | 3 | 0 | 1761 |
+| 30d | 2026-09-23 | 2 | 0 | 0 | 0 | 0 | 60 |
+| last60d | 2026-08-24 | 2 | 1 | 0 | 0 | 0 | 115 |
+| 90d | 2026-07-25 | 2 | 1 | 0 | 0 | 0 | 171 |
+| last180d | 2026-04-26 | 7 | 1 | 0 | 2 | 0 | 472 |
+| 360d | 2025-10-28 | 14 | 1 | 0 | 2 | 0 | 1180 |
+| last720d | 2024-11-02 | 24 | 2 | 0 | 3 | 0 | 1758 |
 
 ## Release assets
 
@@ -86,6 +86,16 @@ Total: **46,324** lines of code across **199** files in the top 5 languages.
 | [orbiton-2.74.6-windows_aarch64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-windows_aarch64_static.zip) | 5.6 MiB | `native/win/arm64` |
 | [orbiton-2.74.6-windows_x86_64_static.zip](https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-windows_x86_64_static.zip) | 6.2 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **26** distros on [repology.org](https://repology.org/project/orbiton). **14** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.74.6` | ✅ latest |
+| Homebrew | `2.74.6` | ✅ latest |
+| Nix unstable | `2.74.6` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `orbiton` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +105,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:44:33Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:43:36Z._
