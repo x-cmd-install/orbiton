@@ -14,7 +14,7 @@ x install orbiton
 
 ## Code insight
 
-Total: **46,414** lines of code across **201** files in the top 5 languages.
+Total: **46,494** lines of code across **201** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **46,414** lines of code across **201** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.6` (2026-10-09)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-29
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 715 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 716 · **Forks**: 19 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 0 · **Commits**: 6525
+- **Releases**: 142 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 6528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 0 | 0 | 0 | 0 | 63 |
-| last60d | 2026-08-30 | 2 | 1 | 0 | 0 | 0 | 119 |
-| 90d | 2026-07-31 | 2 | 1 | 0 | 0 | 0 | 176 |
-| last180d | 2026-05-02 | 7 | 1 | 0 | 2 | 0 | 455 |
-| 360d | 2025-11-03 | 14 | 1 | 0 | 2 | 0 | 1181 |
-| last720d | 2024-11-08 | 23 | 2 | 0 | 3 | 0 | 1723 |
+| 30d | 2026-09-30 | 1 | 0 | 0 | 1 | 0 | 66 |
+| last60d | 2026-08-31 | 2 | 1 | 0 | 1 | 0 | 122 |
+| 90d | 2026-08-01 | 2 | 1 | 0 | 1 | 0 | 179 |
+| last180d | 2026-05-03 | 7 | 1 | 0 | 3 | 0 | 458 |
+| 360d | 2025-11-04 | 14 | 1 | 0 | 3 | 0 | 1184 |
+| last720d | 2024-11-09 | 23 | 2 | 0 | 4 | 0 | 1726 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:50:27Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:49:54Z._
