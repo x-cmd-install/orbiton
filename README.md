@@ -48,12 +48,12 @@ Total: **46,636** lines of code across **202** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 0 | 0 | 1 | 0 | 73 |
-| last60d | 2026-09-07 | 2 | 0 | 0 | 1 | 0 | 135 |
-| 90d | 2026-08-08 | 2 | 1 | 0 | 1 | 0 | 159 |
-| last180d | 2026-05-10 | 7 | 1 | 0 | 3 | 0 | 401 |
-| 360d | 2025-11-11 | 14 | 1 | 0 | 3 | 0 | 1204 |
-| last720d | 2024-11-16 | 23 | 2 | 0 | 4 | 0 | 1734 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 1 | 0 | 73 |
+| last60d | 2026-09-08 | 2 | 0 | 0 | 1 | 0 | 135 |
+| 90d | 2026-08-09 | 2 | 1 | 0 | 1 | 0 | 159 |
+| last180d | 2026-05-11 | 7 | 1 | 0 | 3 | 0 | 401 |
+| 360d | 2025-11-12 | 14 | 1 | 0 | 3 | 0 | 1204 |
+| last720d | 2024-11-17 | 23 | 2 | 0 | 4 | 0 | 1734 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Total: **46,636** lines of code across **202** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/orbiton). **14** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/orbiton). **17** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for orbiton lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:14Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:57:14Z._
