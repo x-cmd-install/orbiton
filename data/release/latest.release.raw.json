@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5770712,
       "digest": "sha256:2127d1f5047ced2315238a281f417edfef3be9449dacf23584646adbe8c6a186",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-09T12:10:49Z",
       "updated_at": "2026-10-09T12:10:50Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-freebsd_aarch64_static.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6010675,
       "digest": "sha256:10bfc3998726a052134573df8818f172844356801ad16ab68b0d489e376defa0",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-09T12:10:45Z",
       "updated_at": "2026-10-09T12:10:47Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-freebsd_i386_static.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5125196,
       "digest": "sha256:28edf68ac6be4f14a0ad950d3ddfff170e1e90ce92f8cf2050140c20a4feee66",
-      "download_count": 533,
+      "download_count": 550,
       "created_at": "2026-10-09T12:10:56Z",
       "updated_at": "2026-10-09T12:10:57Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-linux_x86_64_static.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5758218,
       "digest": "sha256:8c58caf52daa927c26c3b31dde7937d1bc32d2fee10a7f18ef719ca92248c732",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-09T12:10:42Z",
       "updated_at": "2026-10-09T12:10:43Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-netbsd_aarch64_static.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5989825,
       "digest": "sha256:d2f88df87011e2d80bf9864862fb15290e878333d47eb35abecf816851333b15",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-09T12:10:41Z",
       "updated_at": "2026-10-09T12:10:42Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-netbsd_armv6_static.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 6010088,
       "digest": "sha256:527608898ff567dd537de05bdac74ceb5810b70c7354674c51b3c58e63af0003",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-09T12:10:35Z",
       "updated_at": "2026-10-09T12:10:36Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-openbsd_i386_static.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 6530309,
       "digest": "sha256:16804866c4be7661da9f4f238d92cec8555bc632118cf85cfee10d7c9f0c900b",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-10-09T12:10:33Z",
       "updated_at": "2026-10-09T12:10:34Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.74.6/orbiton-2.74.6-windows_x86_64_static.zip"
