@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4810616,
       "digest": "sha256:2d3d303807f4627264a90fe59bd54bf3eb38018c4c1cbfde1f86c940a58219b9",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-13T12:15:21Z",
       "updated_at": "2026-11-13T12:15:22Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.75.0/orbiton-2.75.0-linux_aarch64_static.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5591920,
       "digest": "sha256:bcd55d36c49461a592863c58ca77f13315737fbb60cc4fc69607f0bf15ca7ad4",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-13T12:15:19Z",
       "updated_at": "2026-11-13T12:15:20Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.75.0/orbiton-2.75.0-linux_x86_64_static.tar.xz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 6411414,
       "digest": "sha256:5b2511e636b531e3f92134b4c90a926bfae512c85e12834d9436b1cabf7ea068",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-13T12:15:30Z",
       "updated_at": "2026-11-13T12:15:31Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.75.0/orbiton-2.75.0-windows_aarch64_static.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 7133206,
       "digest": "sha256:d954e773cd2bce62ca223d919ea56e2477ea0413fa50019c8de0b03a0fc49bee",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-13T12:15:25Z",
       "updated_at": "2026-11-13T12:15:26Z",
       "browser_download_url": "https://github.com/xyproto/orbiton/releases/download/v2.75.0/orbiton-2.75.0-windows_x86_64_static.zip"
