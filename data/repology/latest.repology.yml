@@ -1,17 +1,6 @@
 - repo: manjaro_unstable
   subrepo: extra
   srcname: orbiton
-  binname: orbiton-nano
-  visiblename: orbiton-nano
-  version: 2.75.0
-  origversion: 2.75.0-1
-  status: newest
-  summary: Configuration-free text editor and IDE (Nano/Pico Mode)
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: orbiton
   binname: orbiton-gtk3
   visiblename: orbiton-gtk3
   version: 2.75.0
@@ -31,17 +20,6 @@
   summary: Configuration-free text editor and IDE
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_24_05
-  srcname: orbiton
-  visiblename: orbiton
-  version: 2.65.11
-  origversion: null
-  status: outdated
-  summary: Config-free text editor and IDE limited to VT100
-  maintainers:
-    - sikmir@disroot.org
-  licenses:
-    - BSD-3-Clause
 - repo: arch
   subrepo: extra
   srcname: orbiton
@@ -56,23 +34,23 @@
 - repo: arch
   subrepo: extra
   srcname: orbiton
-  binname: orbiton-gtk3
-  visiblename: orbiton-gtk3
-  version: 2.75.0
-  origversion: 2.75.0-1
-  status: newest
-  summary: Configuration-free text editor and IDE (GTK3/VTE3)
-  licenses:
-    - BSD-3-Clause
-- repo: arch
-  subrepo: extra
-  srcname: orbiton
   binname: orbiton-nano
   visiblename: orbiton-nano
   version: 2.75.0
   origversion: 2.75.0-1
   status: newest
   summary: Configuration-free text editor and IDE (Nano/Pico Mode)
+  licenses:
+    - BSD-3-Clause
+- repo: arch
+  subrepo: extra
+  srcname: orbiton
+  binname: orbiton-gtk3
+  visiblename: orbiton-gtk3
+  version: 2.75.0
+  origversion: 2.75.0-1
+  status: newest
+  summary: Configuration-free text editor and IDE (GTK3/VTE3)
   licenses:
     - BSD-3-Clause
 - repo: freebsd
@@ -153,9 +131,9 @@
   srcname: orbiton
   binname: orbiton
   visiblename: orbiton
-  version: 2.74.6
-  origversion: 2.74.6-1
-  status: outdated
+  version: 2.75.0
+  origversion: 2.75.0-1
+  status: newest
   summary: Configuration-free text editor and IDE
   licenses:
     - BSD-3-Clause
@@ -164,9 +142,9 @@
   srcname: orbiton
   binname: orbiton-gtk3
   visiblename: orbiton-gtk3
-  version: 2.74.6
-  origversion: 2.74.6-1
-  status: outdated
+  version: 2.75.0
+  origversion: 2.75.0-1
+  status: newest
   summary: Configuration-free text editor and IDE (GTK3/VTE3)
   licenses:
     - BSD-3-Clause
@@ -175,10 +153,32 @@
   srcname: orbiton
   binname: orbiton-nano
   visiblename: orbiton-nano
-  version: 2.74.6
-  origversion: 2.74.6-1
-  status: outdated
+  version: 2.75.0
+  origversion: 2.75.0-1
+  status: newest
   summary: Configuration-free text editor and IDE (Nano/Pico Mode)
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: orbiton
+  binname: orbiton-nano
+  visiblename: orbiton-nano
+  version: 2.75.0
+  origversion: 2.75.0-1
+  status: newest
+  summary: Configuration-free text editor and IDE (Nano/Pico Mode)
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_24_05
+  srcname: orbiton
+  visiblename: orbiton
+  version: 2.65.11
+  origversion: null
+  status: outdated
+  summary: Config-free text editor and IDE limited to VT100
+  maintainers:
+    - sikmir@disroot.org
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_24_11
@@ -239,17 +239,6 @@
 - repo: parabola
   subrepo: extra
   srcname: orbiton
-  binname: orbiton-gtk3
-  visiblename: orbiton-gtk3
-  version: 2.74.6
-  origversion: 2.74.6-1
-  status: outdated
-  summary: Configuration-free text editor and IDE (GTK3/VTE3)
-  licenses:
-    - BSD-3-Clause
-- repo: parabola
-  subrepo: extra
-  srcname: orbiton
   binname: orbiton
   visiblename: orbiton
   version: 2.74.6
@@ -267,6 +256,17 @@
   origversion: 2.74.6-1
   status: outdated
   summary: Configuration-free text editor and IDE (Nano/Pico Mode)
+  licenses:
+    - BSD-3-Clause
+- repo: parabola
+  subrepo: extra
+  srcname: orbiton
+  binname: orbiton-gtk3
+  visiblename: orbiton-gtk3
+  version: 2.74.6
+  origversion: 2.74.6-1
+  status: outdated
+  summary: Configuration-free text editor and IDE (GTK3/VTE3)
   licenses:
     - BSD-3-Clause
 - repo: termux
